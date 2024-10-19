@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Basana Boutique",
+        "description": "An e-commerce site for clothing.",
+        "technologies": ["Django", "PostgreSQL", "HTML/CSS"],
+        "image": "images/basana_boutique.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Trading Bot",
+        "description": "A forex trading bot based on the NNFX algorithm.",
+        "technologies": ["Python", "OANDA API"],
+        "image": "images/trading_bot.jpg"
+    }
+]
